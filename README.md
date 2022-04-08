@@ -66,17 +66,24 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 ## Output:
 ![output](https://github.com/AavulaTharun/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/1.png?raw=true)
 
+
 ![output](https://github.com/AavulaTharun/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/2.png?raw=true)
+
 
 ![output](https://github.com/AavulaTharun/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/3.png?raw=true)
 
+
 ![output](https://github.com/AavulaTharun/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/4.png?raw=true)
+
 
 ![5](https://user-images.githubusercontent.com/93427201/162418254-da423b8f-54f2-48a5-b99d-da54160e54ab.png)
 
+
 ![6](https://user-images.githubusercontent.com/93427201/162418289-caf035e9-c05b-4e78-8e05-b46bbd48de4f.png)
 
+
 ![7](https://user-images.githubusercontent.com/93427201/162418332-0521c324-b18d-4eb7-a7f2-e3863dabbbdd.png)
+
 
 ![8](https://user-images.githubusercontent.com/93427201/162418367-3d87a11e-b153-4d71-a74c-82705f5c046c.png)
 
